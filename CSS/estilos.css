@@ -4,6 +4,7 @@
 
   animation: bounce;
   animation-duration: 2s;
+  border: #f18119 solid;
 }
 .elementos {
   width: 400px;
