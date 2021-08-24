@@ -1,0 +1,15 @@
+@use "../variables";
+// work2
+.lista {
+  color: $colorTexto;
+  font-family: $baseFont;
+  list-style-type: circle;
+}
+.video {
+  border: 3px solid #f18119;
+  padding: 0px;
+  margin-left: 300px;
+  margin-top: 120px;
+  width: 900px;
+  height: 450px;
+}
